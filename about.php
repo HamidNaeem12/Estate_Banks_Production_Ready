@@ -43,7 +43,6 @@
 			margin-right: 40px;
 			margin-top: 30px;
 			box-shadow: 5px 7px 10px #563d7c;
-
 		}
 		.p1{
 			text-align: justify;
